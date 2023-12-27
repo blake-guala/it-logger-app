@@ -1,0 +1,44 @@
+{
+  "logs": [
+    {
+      "message": "react failure",
+      "tech": "maranatha anudu",
+      "attention": false,
+      "date": "2023-12-20T14:28:16.983Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "good",
+      "tech": "anthony emerie",
+      "attention": false
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "maranatha",
+      "lastName": "anudu",
+      "id": 5
+    },
+    {
+      "firstName": "ifeanyi",
+      "lastName": "obasi",
+      "id": 9
+    },
+    {
+      "firstName": "evans",
+      "lastName": "okafor",
+      "id": 11
+    },
+    {
+      "firstName": "anthony",
+      "lastName": "emerie",
+      "id": 12
+    },
+    {
+      "firstName": "ebere",
+      "lastName": "okoro",
+      "id": 13
+    }
+  ]
+}
